@@ -2,6 +2,9 @@
 
 A powerful Angular application that generates professional scripts using AI and provides voice synthesis capabilities for listening to your generated content.
 
+LIVE-DEMO
+https://sparkly-bienenstitch-ae3bf3.netlify.app/
+
 ## 🚀 Features
 
 ### Core Functionality
